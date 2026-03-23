@@ -77,7 +77,7 @@ Whether you're a student learning to code, a researcher automating workflows, or
 >machine_learning/ + ccus_modeling/
 AI applications, CO₂ storage modeling, energy transition topics
 >
->🤝 Contributing & Community
+🤝 Contributing & Community
 >
 >✅ Found a bug? → Open an issue
 > 
@@ -87,9 +87,10 @@ AI applications, CO₂ storage modeling, energy transition topics
 > 
 >📋 All contributions should follow the Code of Conduct and include clear docstrings and example usage.
 > 
->📄 License & Citation
+📄 License & Citation
 > 
 >This project is licensed under the MIT License – see the LICENSE file for details.
+> 
 >🔖 Cite This Work
 > 
 >If you use this code in your research, please cite:
@@ -114,7 +115,7 @@ AI applications, CO₂ storage modeling, energy transition topics
 >
 >🌍 Location Cairo, Egypt
 >
->🔬 Research Specializations
+🔬 Research Specializations
 >
 > Rock Physics & Fracture Characterization
 >
