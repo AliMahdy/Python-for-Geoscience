@@ -56,30 +56,30 @@ jupyter notebook notebooks/01_well_log_basics.ipynb
 Step
 Module
 Focus Area
-1️⃣ Start Here
-setup_guide.md + notebooks/00_python_refresher.ipynb
-Environment setup & Python fundamentals
-2️⃣ Well Logs
-well_log_analysis/
-LAS handling, curve conditioning, petrophysical calculations
-3️⃣ Seismic Basics
-seismic_processing/
-Trace visualization, filtering, attribute extraction
-4️⃣ Rock Physics
-rock_physics/
-Elastic modeling, Vp/Vs analysis, Gassmann fluid substitution
-5️⃣ Advanced
-machine_learning/ + ccus_modeling/
+>1️⃣ Start Here
+>setup_guide.md + notebooks/00_python_refresher.ipynb
+>Environment setup & Python fundamentals
+>2️⃣ Well Logs
+>well_log_analysis/
+>LAS handling, curve conditioning, petrophysical calculations
+>3️⃣ Seismic Basics
+>seismic_processing/
+>Trace visualization, filtering, attribute extraction
+>4️⃣ Rock Physics
+>rock_physics/
+>Elastic modeling, Vp/Vs analysis, Gassmann fluid substitution
+>5️⃣ Advanced
+>machine_learning/ + ccus_modeling/
 AI applications, CO₂ storage modeling, energy transition topics
-🤝 Contributing & Community
-✅ Found a bug? → Open an issue
-✅ Have a script to share? → Submit a pull request
-✅ Want a tutorial on X? → Request it in the YouTube comments or GitHub Discussions
-📋 All contributions should follow the Code of Conduct and include clear docstrings and example usage.
-📄 License & Citation
-This project is licensed under the MIT License – see the LICENSE file for details.
-🔖 Cite This Work
-If you use this code in your research, please cite:
+>🤝 Contributing & Community
+>✅ Found a bug? → Open an issue
+>✅ Have a script to share? → Submit a pull request
+>✅ Want a tutorial on X? → Request it in the YouTube comments or GitHub Discussions
+>📋 All contributions should follow the Code of Conduct and include clear docstrings and example usage.
+>📄 License & Citation
+>This project is licensed under the MIT License – see the LICENSE file for details.
+>🔖 Cite This Work
+>If you use this code in your research, please cite:
 @misc{mahdy2026pythongeoscience,
   author = {Mahdy, Ali},
   title = {Python for Geoscientists},
