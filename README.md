@@ -46,15 +46,7 @@ Whether you're a student learning to code, a researcher automating workflows, or
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Dralimahdy/python-for-geoscientists.git
-cd python-for-geoscientists
-
-2. Run a Tutorial
-jupyter notebook notebooks/01_well_log_basics.ipynb
 
 
 📚 Learning Path Suggestion
