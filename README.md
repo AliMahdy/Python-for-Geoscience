@@ -49,20 +49,21 @@ Whether you're a student learning to code, a researcher automating workflows, or
 
 
 
-📚 Learning Path Suggestion
+### 📚 Learning Path Suggestion
 Start Here: setup_guide.md + notebooks/00_python_refresher.ipynb
 Well Logs: well_log_analysis/ → Learn LAS handling & petrophysical calculations
 Seismic Basics: seismic_processing/ → Trace visualization & filtering
 Rock Physics: rock_physics/ → Elastic modeling & fluid substitution
 Advanced: machine_learning/ + ccus_modeling/ → AI applications & energy transition topics
 
-🤝 Contributing & Community
+### 🤝 Contributing & Community
 ✅ Found a bug? Open an issue.
 ✅ Have a script to share? Submit a pull request.
 ✅ Want a tutorial on X? Request it in the YouTube comments or GitHub Discussions.
 All contributions should follow the Code of Conduct and include clear docstrings and example usage
 
-📄 License & Citation
+### 📄 License & Citation
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 If you use this code in your research, please cite:
 
