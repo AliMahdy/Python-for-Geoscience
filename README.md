@@ -52,3 +52,40 @@ Whether you're a student learning to code, a researcher automating workflows, or
 ```bash
 git clone https://github.com/Dralimahdy/python-for-geoscientists.git
 cd python-for-geoscientists
+
+### 2. Run a Tutorial
+jupyter notebook notebooks/01_well_log_basics.ipynb
+
+📚 Learning Path Suggestion
+Start Here: setup_guide.md + notebooks/00_python_refresher.ipynb
+Well Logs: well_log_analysis/ → Learn LAS handling & petrophysical calculations
+Seismic Basics: seismic_processing/ → Trace visualization & filtering
+Rock Physics: rock_physics/ → Elastic modeling & fluid substitution
+Advanced: machine_learning/ + ccus_modeling/ → AI applications & energy transition topics
+
+🤝 Contributing & Community
+✅ Found a bug? Open an issue.
+✅ Have a script to share? Submit a pull request.
+✅ Want a tutorial on X? Request it in the YouTube comments or GitHub Discussions.
+All contributions should follow the Code of Conduct and include clear docstrings and example usage
+
+📄 License & Citation
+This project is licensed under the MIT License – see the LICENSE file for details.
+If you use this code in your research, please cite:
+
+@misc{mahdy2026pythongeoscience,
+  author = {Mahdy, Ali},
+  title = {Python for Geoscientists},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Dralimahdy/python-for-geoscientists}},
+  note = {Accompanies YouTube series by @Dralimahdy}
+}
+
+🌐 Connect with Dr. Ali Mahdy
+🎥 YouTube: @Dralimahdy
+💼 LinkedIn: Ali Mahdy
+✉️ Email: alimahdy@sci.asu.edu.eg | alimahdyy65@gmail.com
+🌍 Location: Cairo, Egypt
+Specializing in Rock Physics, Seismic Interpretation, CCUS Evaluations,Geothermal Evaluations, and AI-driven Subsurface Modeling.
