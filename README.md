@@ -53,15 +53,15 @@ cd python-for-geoscientists
 jupyter notebook notebooks/01_well_log_basics.ipynb
 
 📚 Learning Path Suggestion
-Step
-Module
-Focus Area
+Step Module Focus Area
 >1️⃣ Start Here
 >setup_guide.md + notebooks/00_python_refresher.ipynb
 >Environment setup & Python fundamentals
+>
 >2️⃣ Well Logs
 >well_log_analysis/
 >LAS handling, curve conditioning, petrophysical calculations
+>
 >3️⃣ Seismic Basics
 >seismic_processing/
 >Trace visualization, filtering, attribute extraction
@@ -71,7 +71,9 @@ Focus Area
 >5️⃣ Advanced
 >machine_learning/ + ccus_modeling/
 AI applications, CO₂ storage modeling, energy transition topics
+>
 >🤝 Contributing & Community
+>
 >✅ Found a bug? → Open an issue
 >✅ Have a script to share? → Submit a pull request
 >✅ Want a tutorial on X? → Request it in the YouTube comments or GitHub Discussions
@@ -80,6 +82,7 @@ AI applications, CO₂ storage modeling, energy transition topics
 >This project is licensed under the MIT License – see the LICENSE file for details.
 >🔖 Cite This Work
 >If you use this code in your research, please cite:
+>
 @misc{mahdy2026pythongeoscience,
   author = {Mahdy, Ali},
   title = {Python for Geoscientists},
@@ -91,23 +94,25 @@ AI applications, CO₂ storage modeling, energy transition topics
 }
 
 🌐 Connect with Dr. Ali Mahdy
-Platform
-Link
-🎥 YouTube
-@Dralimahdy
-💼 LinkedIn
-Ali Mahdy
-✉️ Email
-alimahdy@sci.asu.edu.eg | alimahdyy65@gmail.com
-🌍 Location
-Cairo, Egypt
+
+PlatformLink🎥 YouTube @Dralimahdy
+💼 LinkedIn Ali Mahdy
+✉️ Email alimahdy@sci.asu.edu.eg | alimahdyy65@gmail.com
+🌍 Location Cairo, Egypt
 🔬 Research Specializations
 Rock Physics & Fracture Characterization
+
 Seismic Interpretation & Quantitative Analysis
+
 CCUS (CO₂ Storage) Feasibility & Environmental Assessment
+
 Geothermal Resource Evaluations
+
+
 AI-Driven Subsurface Modeling & Physics-Informed Machine Learning
+
 ⚠️ Disclaimer: Code and data are provided for educational and research purposes. Always validate results against domain knowledge, laboratory measurements, and industry standards before applying to critical projects or commercial workflows.
+
 <p align="center">
 <i>Made with 🐍 and 🌍 by Dr. Ali Mahdy</i><br>
 <sub>Empowering the next generation of geoscientists through open-source code</sub>
