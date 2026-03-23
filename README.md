@@ -46,14 +46,16 @@ Whether you're a student learning to code, a researcher automating workflows, or
 
 ---
 🚀 Getting Started
-1. Clone the Repository
-git clone https://github.com/Dralimahdy/python-for-geoscientists.git
-cd python-for-geoscientists
-2. Run a Tutorial
-jupyter notebook notebooks/01_well_log_basics.ipynb
+### 1. Clone the Repository
+> git clone https://github.com/Dralimahdy/python-for-geoscientists.git
+> 
+> cd python-for-geoscientists
+### 2. Run a Tutorial
+> jupyter notebook notebooks/01_well_log_basics.ipynb
 
 📚 Learning Path Suggestion
-Step Module Focus Area
+
+> Step Module Focus Area
 >1️⃣ Start Here
 >setup_guide.md + notebooks/00_python_refresher.ipynb
 >Environment setup & Python fundamentals
@@ -65,10 +67,13 @@ Step Module Focus Area
 >3️⃣ Seismic Basics
 >seismic_processing/
 >Trace visualization, filtering, attribute extraction
+> 
 >4️⃣ Rock Physics
 >rock_physics/
 >Elastic modeling, Vp/Vs analysis, Gassmann fluid substitution
+> 
 >5️⃣ Advanced
+> 
 >machine_learning/ + ccus_modeling/
 AI applications, CO₂ storage modeling, energy transition topics
 >
@@ -77,10 +82,14 @@ AI applications, CO₂ storage modeling, energy transition topics
 >✅ Found a bug? → Open an issue
 >✅ Have a script to share? → Submit a pull request
 >✅ Want a tutorial on X? → Request it in the YouTube comments or GitHub Discussions
+> 
 >📋 All contributions should follow the Code of Conduct and include clear docstrings and example usage.
+> 
 >📄 License & Citation
+> 
 >This project is licensed under the MIT License – see the LICENSE file for details.
 >🔖 Cite This Work
+> 
 >If you use this code in your research, please cite:
 >
 @misc{mahdy2026pythongeoscience,
@@ -95,21 +104,18 @@ AI applications, CO₂ storage modeling, energy transition topics
 
 🌐 Connect with Dr. Ali Mahdy
 
-PlatformLink🎥 YouTube @Dralimahdy
-💼 LinkedIn Ali Mahdy
-✉️ Email alimahdy@sci.asu.edu.eg | alimahdyy65@gmail.com
-🌍 Location Cairo, Egypt
-🔬 Research Specializations
-Rock Physics & Fracture Characterization
-
-Seismic Interpretation & Quantitative Analysis
-
-CCUS (CO₂ Storage) Feasibility & Environmental Assessment
-
-Geothermal Resource Evaluations
-
-
-AI-Driven Subsurface Modeling & Physics-Informed Machine Learning
+>PlatformLink🎥 YouTube @Dralimahdy
+>💼 LinkedIn Ali Mahdy
+>✉️ Email alimahdy@sci.asu.edu.eg | alimahdyy65@gmail.com
+>🌍 Location Cairo, Egypt
+>
+>🔬 Research Specializations
+>
+> Rock Physics & Fracture Characterization
+> Seismic Interpretation & Quantitative Analysis
+> CCUS (CO₂ Storage) Feasibility & Environmental Assessment
+> Geothermal Resource Evaluations
+> AI-Driven Subsurface Modeling & Physics-Informed Machine Learning
 
 ⚠️ Disclaimer: Code and data are provided for educational and research purposes. Always validate results against domain knowledge, laboratory measurements, and industry standards before applying to critical projects or commercial workflows.
 
